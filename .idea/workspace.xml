@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29afa124-0286-4734-8876-b74871d86876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/emailautomation/credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master_Thesis/storytelling_classification/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../website/my-website" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Angular_MIT3/gameOfGrants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoogleMailApiTest/src/main/resources/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/10111.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/10112.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/10112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/10112.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/mail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../University_project/src/js/faang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/js/faang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="ebf4ec1e-3e58-4217-92a1-9fef2e8b88b2" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l82vynSv0GgSPGQVpzLDBKJIEK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29afa124-0286-4734-8876-b74871d86876" name="Default Changelist" comment="" />
+      <created>1606964632249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606964632249</updated>
+      <workItem from="1606964633514" duration="5912000" />
+      <workItem from="1607143039901" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1607021985854">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1607021985854" />
+    <state x="440" y="265" key="scopes" timestamp="1607021979833">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="440" y="265" key="scopes/0.0.1280.800@0.0.1280.800" timestamp="1607021979833" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1607021887965">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1607021887965" />
+  </component>
+</project>

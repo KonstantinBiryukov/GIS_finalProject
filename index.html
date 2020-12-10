@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Create a time slider</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="styleMap.css">
+</head>
+<body>
+<div id="map"></div>
+
+<div class="map-overlay top">
+    <div class="map-overlay-inner">
+        <h2>Significant earthquakes in 2020</h2>
+        <label id="month"></label>
+        <input id="slider" type="range" min="0" max="11" step="1" value="0"/>
+    </div>
+    <div class="map-overlay-inner">
+        <div id="legend" class="legend">
+            <div class="bar"></div>
+            <div>Magnitude (m).
+                <div class="magnitude-description">Minimal magnitude is 6. [Richter magnitude scale]</div>
+                <div class="magnitude-description">Data source: <a href="https://earthquake.usgs.gov/" target="_blank">https://earthquake.usgs.gov/</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="./script.js"></script>
+</body>
+</html>
