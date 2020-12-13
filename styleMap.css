@@ -52,3 +52,16 @@ body {
     font-size: 10px;
     color: darkblue;
 }
+
+.top-earthquakes-table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.top-earthquakes-table td {
+    border-top: 1px solid black;
+}
+
+.top-earthquakes-table th {
+    border-right: 1px solid black;
+}

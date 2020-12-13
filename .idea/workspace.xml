@@ -18,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleMap.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleMap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/js/faang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/js/faang.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
@@ -38,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -98,6 +101,7 @@
       <updated>1606964632249</updated>
       <workItem from="1606964633514" duration="5912000" />
       <workItem from="1607143039901" duration="3714000" />
+      <workItem from="1607891800458" duration="1997000" />
     </task>
     <servers />
   </component>
