@@ -18,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/js/faang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/js/faang.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
@@ -88,6 +89,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606964632249</updated>
       <workItem from="1606964633514" duration="5912000" />
-      <workItem from="1607143039901" duration="201000" />
+      <workItem from="1607143039901" duration="3637000" />
     </task>
     <servers />
   </component>
@@ -105,6 +121,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="217" y="23" key="CommitChangelistDialog2" timestamp="1607637744608">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="217" y="23" key="CommitChangelistDialog2/0.23.1280.731@0.23.1280.731" timestamp="1607637744608" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1607637758781">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.731@0.23.1280.731" timestamp="1607637758781" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1607637752711">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.23.1280.731@0.23.1280.731" timestamp="1607637752711" />
     <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1607021985854">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
