@@ -18,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/js/faang.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/js/faang.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
@@ -89,21 +88,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606964632249</updated>
       <workItem from="1606964633514" duration="5912000" />
-      <workItem from="1607143039901" duration="3637000" />
+      <workItem from="1607143039901" duration="3714000" />
     </task>
     <servers />
   </component>
