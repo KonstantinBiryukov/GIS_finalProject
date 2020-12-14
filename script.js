@@ -1,12 +1,12 @@
 mapboxgl.accessToken = 'pk.eyJ1Ijoia29uc3RhbnRpbmJpcml1a292IiwiYSI6ImNrMWsxYjc1bjBrdjQzZHBiNTlhbjBqdmwifQ.vAlGhe7KTCajh5VvGfMJow';
-var map = new mapboxgl.Map({
+let map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
     center: [31.4606, 20.7927],
     zoom: 0.5
 });
 
-var months = [
+const months = [
     'January',
     'February',
     'March',
@@ -127,7 +127,7 @@ map.on('load', function () {
             document
                 .getElementById('slider')
                 .addEventListener('input', function (e) {
-                    var month = parseInt(e.target.value, 10);
+                    let month = parseInt(e.target.value, 10);
                     filterBy(month);
                 });
         }
