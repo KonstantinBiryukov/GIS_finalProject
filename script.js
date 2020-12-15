@@ -5,6 +5,7 @@ let map = new mapboxgl.Map({
     center: [31.4606, 20.7927],
     zoom: 0.5
 });
+map.addControl(new mapboxgl.NavigationControl());
 
 const months = [
     'January',

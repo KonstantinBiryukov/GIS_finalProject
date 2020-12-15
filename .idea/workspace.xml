@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MailApiTests/GmailNodeJs/token.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styleMap.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleMap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" beforeDir="false" afterPath="$PROJECT_DIR$/../University_project/src/data/convertcsv.js" afterDir="false" />
@@ -101,7 +102,7 @@
       <updated>1606964632249</updated>
       <workItem from="1606964633514" duration="5912000" />
       <workItem from="1607143039901" duration="3714000" />
-      <workItem from="1607891800458" duration="3981000" />
+      <workItem from="1607891800458" duration="4914000" />
     </task>
     <servers />
   </component>
